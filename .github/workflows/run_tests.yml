@@ -14,7 +14,7 @@ on:
 
 jobs:
   run-tests:
-    runs-on: windows
+    runs-on: windows 10
     name: Tests
     steps: 
       - name: Copy source code
